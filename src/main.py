@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from config import url, count_dis, path_dict_urls_forum, time_couple
+from src.config import url, count_dis, path_dict_urls_forum, time_couple
 import webbrowser
 import datetime
 import time
